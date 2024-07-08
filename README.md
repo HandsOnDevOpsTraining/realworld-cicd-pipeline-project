@@ -66,7 +66,7 @@
     - Instance type: `t2.medium`
     - Key pair: `Select a keypair`
     - Security Group (Eit/Open): `9000, 9100` and `22 to 0.0.0.0/0`
-    - User data (Copy the following user data): [https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/maven-nexus-sonarqube-jenkins-install/sonarqube-install.sh](https://github.com/HandsOnDevOpsTraining/realworld-cicd-pipeline-project/blob/main/sonarQube-install.sh)
+    - User data (Copy the following user data): https://github.com/HandsOnDevOpsTraining/realworld-cicd-pipeline-project/blob/main/sonarQube-install.sh
     - Launch Instance
 
 5) Nexus
